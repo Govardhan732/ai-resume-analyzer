@@ -1,0 +1,5 @@
+streamlit
+fitz
+PyMuPDF
+pandas
+scikit-learn
